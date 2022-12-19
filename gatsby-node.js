@@ -321,7 +321,6 @@ exports.onCreateNode = ({
       case "homepage":
         // prettier-ignore
         const {
-          description,
           hero,
           logoList,
           featureList,
